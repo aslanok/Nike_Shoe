@@ -1,8 +1,7 @@
 # Nike_Shoe
 
 
-This page is entry page of app: 
-
+This page is entry page of app:
 ![Screen Shot 2022-09-19 at 20 49 55](https://user-images.githubusercontent.com/75434270/191083292-acea268e-4662-4693-ba2f-1ea061f2dd9d.png)
 
 When user started to using app, user will see the products in the second page.
