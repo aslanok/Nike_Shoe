@@ -1,4 +1,11 @@
 # Nike_Shoe
+This app is a simple shoe app. User can add shoe or user can view shoe.
+
+While I am developing this app, I used : 
+- CoreData
+- AlertAction
+- TableView
+- TapGestureRecognizer
 
 
 This page is entry page of app:
